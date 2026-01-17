@@ -39,7 +39,10 @@ Alongside enterprise modernization work, I actively build creative side projects
 
 <h4>🧪 Latest Project</h4>
 
-  -  **[DuplicateFileManager]("https://github.com/YOUR-GITHUB/DuplicateFileManager")** — A Python desktop application for efficiently identifying and managing duplicate files, with a clean and user-friendly interface.
+  -  **[DuplicateFileManager]("https://github.com/Arun-M94/DuplicateFileManager/tree/main")** — A Python desktop application for efficiently identifying and managing duplicate files, with a clean and user-friendly interface.
 
 
 <p><em>More projects coming soon 🚀</em></p>
+
+<H4>📫 Let’s connect</H4>
+<p> I’m always open to learning, collaboration, and building impactful software. </p>
