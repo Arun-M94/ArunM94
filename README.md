@@ -39,7 +39,7 @@ Alongside enterprise modernization work, I actively build creative side projects
 
 <h4>🧪 Latest Project</h4>
 
-  -  **[DuplicateFileManager]("https://github.com/Arun-M94/DuplicateFileManager/tree/main")** — A Python desktop application for efficiently identifying and managing duplicate files, with a clean and user-friendly interface.
+  -  <a href="https://github.com/Arun-M94/DuplicateFileManager/tree/main"><strong>DuplicateFileManager </strong> </a> — A Python desktop application for efficiently identifying and managing duplicate files, with a clean and user-friendly interface.
 
 
 <p><em>More projects coming soon 🚀</em></p>
